@@ -1,0 +1,7 @@
+﻿id_registro,parcela,fecha_deteccion,tipo_plaga,nivel_infestacion,area_afectada_porcentaje,accion_tomada,producto_aplicado,costo_control,resultado
+401,El Mirador,2023-06-15,Gusano cogollero,Alto,30,Fumigacion,Clorpirifos,2500,Controlado
+402,La Esperanza,2023-11-01,Afid,Medio,15,Control biologico,Jabon potasico,800,Controlado
+403,San Jose,2023-07-10,Mosca blanca,Bajo,5,Monitoreo,Ninguno,0,Controlado
+404,El Roble,2023-08-05,Chicharrita,Medio,20,Fumigacion,Imidacloprid,1500,En observacion
+405,La Pradera,2023-09-20,Pulgón,Alto,40,Fumigacion,Lambda-cialotrina,3500,Controlado
+406,Los Pinos,2023-11-15,Afid,Bajo,10,Control biologico,Jabon potasico,600,Controlado
